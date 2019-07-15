@@ -12,7 +12,7 @@ var user = $(`.user`)
 var name = $(`.name`)
 var adj1 = ["attractive","bald","beautiful","chubby","clean","dazzling","drab","elegant","fancy","fit","flabby","glamorous","gorgeous","handsome","magnificent","muscular","plain","plump","scruffy","shapely","skinny","stocky","unkept","unsightly"]
 var adj2 = ["agreeable","ambitious","brave","calm","delightful","eager","faithful","gentle","happy","jolly","kind","lively","nice","obedient","polite","proud","silly","thankful","victorious","witty","wonderful","zealous"]
-var adj3 = ["angry","bewildered","clumsy","defeated", "embarrassed","fierce","grumpy","helpless", "helpless","itchy","jealous","lazt mysterious","nervous","obnoxious","panicky","pitiful","repulsive","scary","thoughtless","uptight","worried"]
+var adj3 = ["angry","bewildered","clumsy","defeated", "embarrassed","fierce","grumpy","helpless", "helpless","itchy","jealous","lazy", "mysterious","nervous","obnoxious","panicky","pitiful","repulsive","scary","thoughtless","uptight","worried"]
 var adj4 = ["big","colossal","fat","gigantic","great","huge","immense","large","little","mammoth","massive","microsopic","minature","petite","puny","scrawny","short","small","tall","teeny","tiny"]
 var theImages = [{
    src: "https://images.pexels.com/photos/50577/hedgehog-animal-baby-cute-50577.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
